@@ -9,9 +9,9 @@
     "lint": "eslint .",
     "preview": "vite preview",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/sa9chit/otpGen.git",
+  "homepage": "https://sa9chit.github.io/otpGen",
   "dependencies": {
     "@tailwindcss/vite": "^4.0.15",
     "react": "^19.0.0",
